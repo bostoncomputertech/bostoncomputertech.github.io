@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:8DB530DA-6EFA-401B-8B28-BCEB40B627AA</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-09-30T23:46:52-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:21DF8995-D796-4A84-A903-2ADE4BA7F867</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">21DF8995-D796-4A84-A903-2ADE4BA7F867</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2010-09-30T23:46:52.001-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7C0FA196-FB9D-404D-9C39-4EF690BFCA86</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">7C0FA196-FB9D-404D-9C39-4EF690BFCA86</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2010-09-30T23:46:52.002-04:00</updated>
+  <content>Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E1AD23A2-39A0-49C1-9E86-3C013CF34D1A</id>
+  <title>Pricing</title>
+  <title xmlns="urn:iweb:">Pricing</title>
+  <in-navbar xmlns="urn:iweb:">E1AD23A2-39A0-49C1-9E86-3C013CF34D1A</in-navbar>
+  <link rel="alternate" href="Pricing.html"/>
+  <updated>2010-09-30T23:46:52.003-04:00</updated>
+  <content>Pricing</content>
+ </entry>
+</feed>
